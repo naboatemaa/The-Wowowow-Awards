@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+body{
+    background: yellow;
+}
+p{
+    text-align: center;
+}
+.actress{
+    height: 500px;
+
+}
+.musician{
+    height: 500px;
+}
+.musician{
+    width: 500px;
+}
